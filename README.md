@@ -77,8 +77,3 @@ Pagination
 Sorting
 
 ![ScreenShot](Images/12.jpg)
-
-## Submission
-You can return your solution via email, or provide access to a Git repo. Please include a document describing your solution and the reasoning behind your approach. Incomplete solutions will not be considered.
-
-**The Document: Solution.pdf** 
